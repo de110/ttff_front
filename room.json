@@ -1,0 +1,32 @@
+{
+  "chat": [
+      {
+        "id":10,
+        "roomId":"872cef7f-e31e-46f5-a989-97b18246bd25",
+        "roomName":"토토토토익",
+        "host":"이다",
+        "guest":"쑤우"
+      },
+      {
+        "id":11,
+        "roomId":"872cef7f-e31e-46f5-a989-97b18246bd26",
+        "roomName":"토익",
+        "host":"쑤우",
+        "guest":"이다"
+      },
+      {
+        "id":12,
+        "roomId":"872cef7f-e31e-46f5-a989-97b18246bd24",
+        "roomName":"컴활",
+        "host":"쑤우",
+        "guest":"이다"
+      },
+      {
+        "id":13,
+        "roomId":"872cef7f-e31e-46f5-a989-97b18246bd23",
+        "roomName":"오프코",
+        "host":"쑤우",
+        "guest":"이다"
+      }
+  ]
+}

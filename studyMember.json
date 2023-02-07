@@ -1,0 +1,78 @@
+{
+  "member": [
+    {
+      "title": "컴활",
+      "user": [
+        {
+          "name": "이다",
+          "manager": false
+        },
+        {
+          "name": "쑤우",
+          "manager": true
+        },
+        {
+          "name": "이다",
+          "manager": false
+        }
+      ],
+      "id": 1
+    },
+    {
+      "title": "토익900",
+      "user": [
+        {
+          "name": "쑤우",
+          "manager": true
+        },
+        {
+          "name": "이다은",
+          "manager": false
+        }
+      ],
+      "id": 2
+    },
+    {
+      "title": "3355",
+      "user": [
+        {
+          "name": "쑤우",
+          "manager": false
+        },
+        {
+          "name": "이다은",
+          "manager": true
+        }
+      ],
+      "id": 3
+    },
+    {
+      "title": "오프코",
+      "user": [
+        {
+          "name": "쑤우",
+          "manager": true
+        },
+        {
+          "name": "이다은",
+          "manager": false
+        },
+        {
+          "name": "이다",
+          "manager": false
+        }
+      ],
+      "id": 4
+    },
+    {
+      "title": "wfwefwef",
+      "user": [
+        {
+          "name": "쑤우",
+          "manager": true
+        }
+      ],
+      "id": 5
+    }
+  ]
+}

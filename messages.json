@@ -1,0 +1,59 @@
+{
+  "messages": [
+    {
+      "id":116,
+      "type":"ENTER",
+      "roomId":"872cef7f-e31e-46f5-a989-97b18246bd25",
+      "sender":"이다","message":"이다님이 입장하였습니다."
+    },
+    {
+      "type":"TALK",
+      "id":117,
+      "roomId":"872cef7f-e31e-46f5-a989-97b18246bd25",
+      "sender":"이다",
+      "message":"dsdf"
+    },
+    {
+      "id":118,
+      "type":"TALK",
+      "roomId":"872cef7f-e31e-46f5-a989-97b18246bd25",
+      "sender":"이다",
+      "message":"sdf"
+    },
+    {
+      "id":119,
+      "type":"ENTER",
+      "roomId":"872cef7f-e31e-46f5-a989-97b18246bd25",
+      "sender":"쑤우",
+      "message":"쑤우님이 입장하였습니다."
+    },
+    {
+      "id":120,
+      "type":"TALK",
+      "roomId":"872cef7f-e31e-46f5-a989-97b18246bd25",
+      "sender":"쑤우",
+      "message":"dsf"
+    },
+    {
+      "id":121,
+      "type":"TALK",
+      "roomId":"872cef7f-e31e-46f5-a989-97b18246bd25",
+      "sender":"쑤우",
+      "message":"dsfsdf"
+    },
+    {
+      "id":122,
+      "type":"ENTER",
+      "roomId":"872cef7f-e31e-46f5-a989-97b18246bd25",
+      "sender":"쑤우",
+      "message":"쑤우님이 입장하였습니다."
+      },
+    {
+      "id":123,
+      "type":"TALK",
+      "roomId":"872cef7f-e31e-46f5-a989-97b18246bd25",
+      "sender":"쑤우",
+      "message":"sdf"
+    }
+  ]
+}

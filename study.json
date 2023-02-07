@@ -1,0 +1,144 @@
+{
+  "language": [
+    {
+      "title": "토익900",
+      "type": "language",
+      "start": "2022-05-10",
+      "end": "2022-05-13",
+      "rule": "동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리나라 만세. 무궁화 삼천리 화려강산 대한사람 대한으로 길이 보전하세",
+      "period": "7",
+      "si": "서울특별시",
+      "gungu": "강남구",
+      "dong": "신사동",
+      "manager": "쑤우",
+      "id": 1
+    },
+    {
+      "title": "중국어",
+      "type": "language",
+      "start": "2022-05-11",
+      "end": "2022-05-13",
+      "rule": "동해물과 백두산이 마르고 닳도록",
+      "period": "7",
+      "si": "서울특별시",
+      "gungu": "강남구",
+      "dong": "신사동",
+      "manager": "쑤우",
+      "id": 2
+    },
+    {
+      "title": "wfwefwef",
+      "type": "language",
+      "start": null,
+      "end": null,
+      "rule": "dsfwefewf",
+      "period": "",
+      "si": "서울특별시",
+      "gungu": "강남구",
+      "dong": "신사동",
+      "manager": "쑤우",
+      "id": 3
+    }
+  ],
+  "project": [
+    {
+      "title": "3355",
+      "type": "project",
+      "start": "2022-05-03",
+      "end": "2022-05-20",
+      "rule": "동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리나라 만세",
+      "period": "7",
+      "si": "서울특별시",
+      "gungu": "강남구",
+      "dong": "신사동",
+      "manager": "쑤우",
+      "id": 1
+    },
+    {
+      "title": "ㅈㄷㄹㄷㅈㄹㅈㄹ",
+      "type": "project",
+      "start": null,
+      "end": null,
+      "rule": "ㅇㄴㄹㄴㅇㄹㅇㄹㄴㅇㄹㄴㅇㄹ",
+      "period": "",
+      "si": "서울특별시",
+      "gungu": "강남구",
+      "dong": "신사동",
+      "manager": "쑤우",
+      "id": 2
+    },
+    {
+      "title": "오프코",
+      "type": "project",
+      "start": null,
+      "end": null,
+      "rule": "ㄴㅇㄹㅈㄷㄹㅈㄷㄹㅈㄹㅈㄷㄹ",
+      "period": "",
+      "si": "서울특별시",
+      "gungu": "강남구",
+      "dong": "신사동",
+      "manager": "쑤우",
+      "id": 3
+    }
+  ],
+  "certificate": [
+    {
+      "title": "컴활",
+      "type": "certificate",
+      "start": "2022-05-20",
+      "end": "2022-05-26",
+      "rule": "동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리나라 만세",
+      "period": "7",
+      "si": "서울특별시",
+      "gungu": "강남구",
+      "dong": "신사동",
+      "manager": "쑤우",
+      "id": 1
+    }
+  ],
+  "job": [
+    {
+      "title": "면접",
+      "type": "job",
+      "start": null,
+      "end": null,
+      "rule": "ㄴㄹㅈㄷㄹㄷㄹㅈㄹㅈㄷ",
+      "period": "",
+      "si": "서울특별시",
+      "gungu": "강남구",
+      "dong": "신사동",
+      "manager": "쑤우",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "title": "토익900",
+      "user": [
+        {
+          "name": "쑤우",
+          "manager": true
+        },
+        {
+          "name": "이다은",
+          "manager": false
+        }
+      ],
+      "id": 1
+    },
+    {
+      "title": "3355",
+      "user": [
+        {
+          "name": "쑤우",
+          "manager": false
+        },
+        {
+          "name": "이다은",
+          "manager": true
+        }
+      ],
+      "id": 2
+    }
+  ]
+}

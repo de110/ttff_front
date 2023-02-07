@@ -1,0 +1,43 @@
+function signUp(payload) {
+    console.log(payload)
+    return axios.post(`${userURL.baseUrl}/api/user`, payload);
+}
+
+async function login(payload) {
+    await axios.get(`${userURL.baseUrl}/api/user?userId=${payload}`).then(res => {
+        // eslint-disable-next-line prettier/prettier
+        localStorage.setItem('user', JSON.stringify({ userId: res.data.memberId, id: res.data.memberId, }));
+        localStorage.setItem('area', JSON.stringify(res.data.dongNm));
+        // console.log(res)
+        return;
+    });
+}
+
+function addStudy(payload) {
+    return axios.post(`${studyURL.baseUrl}/board`, payload);
+
+}
+
+function beforeSelect({ commit }, payload) {
+    const lists = [];
+    payload
+    // eslint-disable-next-line prettier/prettier
+    axios.get(`${'http://localhost:8081'}/boards`).then(res => {
+        res.data.filter(e => {
+            lists.push(e);
+        });
+    });
+}
+
+function afterSelect({ commit }, payload) {
+    // eslint-disable-next-line prettier/prettier
+    axios.get(`${'http://localhost:8081'}/${payload.type}?dong=${payload.dong}`)
+        .then(res => {
+            // console.log(res.data[0]);
+            commit('studyList', res.data);
+        })
+        .catch(err => {
+            console.log(err);
+        });
+}
+

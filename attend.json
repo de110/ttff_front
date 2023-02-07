@@ -1,0 +1,95 @@
+{
+  "studyAttend": [
+    {
+      "name": "쑤우",
+      "attend": "출석",
+      "createdAt": "2022-5-11",
+      "studyName": "토익900",
+      "id": 1
+    },
+    {
+      "name": "이다은",
+      "attend": "지각",
+      "createdAt": "2022-5-11",
+      "studyName": "토익900",
+      "id": 2
+    },
+    {
+      "name": "쑤우",
+      "attend": "출석",
+      "createdAt": "2022-5-9",
+      "studyName": "토익900",
+      "id": 1
+    },
+    {
+      "name": "이다은",
+      "attend": "지각",
+      "createdAt": "2022-5-9",
+      "studyName": "토익900",
+      "id": 2
+    },
+    {
+      "name": "쑤우",
+      "attend": "결석",
+      "createdAt": "2022-5-17",
+      "studyName": "토익900",
+      "id": 3
+    },
+    {
+      "name": "이다은",
+      "attend": "출석",
+      "createdAt": "2022-5-17",
+      "studyName": "토익900",
+      "id": 4
+    },
+    {
+      "name": "이다",
+      "attend": "출석",
+      "createdAt": "2022-5-20",
+      "studyName": "컴활",
+      "id": 5
+    },
+    {
+      "name": "쑤우",
+      "attend": "출석",
+      "createdAt": "2022-5-20",
+      "studyName": "컴활",
+      "id": 6
+    },
+    {
+      "name": "쑤우",
+      "attend": "출석",
+      "createdAt": "2022-5-20",
+      "studyName": "토익900",
+      "id": 7
+    },
+    {
+      "name": "이다은",
+      "attend": "출석",
+      "createdAt": "2022-5-20",
+      "studyName": "토익900",
+      "id": 8
+    },
+    {
+      "name": "이다",
+      "attend": "출석",
+      "createdAt": "2022-5-23",
+      "studyName": "컴활",
+      "id": 9
+    },
+    {
+      "name": "쑤우",
+      "attend": "출석",
+      "createdAt": "2022-5-23",
+      "studyName": "컴활",
+      "id": 10
+    },
+    {
+      "name": "이다",
+      "attend": "출석",
+      "createdAt": "2022-5-23",
+      "studyName": "컴활",
+      "id": 11
+    }
+  ]
+}
